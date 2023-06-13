@@ -1,0 +1,2 @@
+#!/bin/bash
+pirntf '%.2f⧵n' $NUM 
